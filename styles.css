@@ -188,3 +188,39 @@ input {
     height: 120px;
     gap: 100px
 }
+
+.call {
+    color: #F9FAF8;
+    height: 50px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.sign {
+    font-size: 14px;
+    margin: 0
+}
+
+.action {
+    margin: 0
+}
+
+.bottom-button {
+    border: #E5E7EB 1px solid;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    
+}
+
+.footer {
+    height: 80px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
