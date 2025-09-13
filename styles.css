@@ -108,7 +108,7 @@ input {
     font-weight: 900;
 }
 
-.info-random {
+.random-information {
     display: flex;
     flex-direction: column;
     align-items: center;
